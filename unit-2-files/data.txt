@@ -1,0 +1,1 @@
+-f /Users/yerlanshaikh/Library/Jupyter/runtime/kernel-2d8580c8-bdcf-446b-8249-38182b36f5af.json
